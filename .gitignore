@@ -1,0 +1,26 @@
+# Media and derived features are NOT distributed (see README "Data & Copyright").
+data/*/videos/*
+!data/*/videos/.gitkeep
+data/*/features/
+*.wav
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+
+# Inference outputs
+predictions.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Never commit credentials of any kind
+*.env
+.env
+*.key
+*credentials*
+*secret*

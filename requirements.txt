@@ -1,0 +1,7 @@
+torch>=2.0
+numpy>=1.23
+# Feature extraction (HuBERT + MAE) only:
+transformers>=4.40
+torchaudio>=2.0
+torchvision>=0.15
+timm>=0.9

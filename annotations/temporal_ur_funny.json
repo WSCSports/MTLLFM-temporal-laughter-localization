@@ -1,0 +1,2105 @@
+[
+  {
+    "name": "4466906_254.51_259.51",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.7039297354838709,
+        "end": 1.1727061096162665,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 3.3503615185445645,
+        "end": 5.005005,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4769656_8893.39_8898.39",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.331363619354838,
+        "end": 4.800152540345513,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4883908_10659.40_10664.40",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9308713984406056,
+        "end": 4.669185309677419,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4974817_11268.51_11273.51",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.5133617014218008,
+        "end": 3.344576800947867,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5320881_544.78_549.78",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.7603383837945268,
+        "end": 2.3205593584467206,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5789834_33390.28_33395.28",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.922546412306733,
+        "end": 4.669153505398601,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5798008_46103.10_46108.10",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.5234066459621483,
+        "end": 5.005005,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5802581_26609.31_26614.31",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9536423841059603,
+        "end": 3.2847682119205297,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5845488_1170.26_1175.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.2877652014082066,
+        "end": 2.7070910887709525,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4511457_570.57_575.57",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.605340131061271,
+        "end": 3.148907040802235,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5855471_1654.20_1659.20",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.02843601895734597,
+        "end": 1.2251655629139075,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4573897_396.90_401.90",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.4374564123222748,
+        "end": 2.7061052425535923,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4574019_13460.45_13465.45",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.066763654100866,
+        "end": 2.810757774834437,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4574034_345.60_350.60",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 1.2993125562913905,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5868655_1301.82_1306.82",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.9366955340465273,
+        "end": 3.6754966887417218,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5880224_5681.77_5686.77",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.1534713509933774,
+        "end": 3.4034033999999993,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5990915_4612.10_4617.10",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.4414671076923076,
+        "end": 3.1753607880794696,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6090163_1034.26_1039.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.079462888537952,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6131733_7933.75_7938.75",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.9452538631346579,
+        "end": 4.058923416539311,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6147631_9811.00_9816.00",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.4067583630497538,
+        "end": 3.624010867719477,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4761769_118.12_123.12",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.60610414875191,
+        "end": 3.5465929470198674,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4761770_117.62_122.62",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.688781494039735,
+        "end": 3.639400986754967,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6154319_14402.77_14407.77",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.073426795415181,
+        "end": 4.930792563830871,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6181245_12186.43_12191.43",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.7014316058074377,
+        "end": 3.414010033112582,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6201250_4356.62_4361.62",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.1310918661912037,
+        "end": 5,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6201250_4801.82_4806.82",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9188317201562235,
+        "end": 3.927152317880795,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6209743_6579.57_6584.57",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.8727355296994397,
+        "end": 3.897937668874172,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6089113_2279.26_2284.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.03076923076923077,
+        "end": 2.7211411105450836,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6151444_861.26_866.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.2589573781626764,
+        "end": 5,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "4896230_493.50_498.50",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.621862988894549,
+        "end": 3.5731095298013242,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5160342_11785.53_11790.53",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9164010314824251,
+        "end": 3.281427119205298,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5160390_3844.59_3849.59",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.8900695538461534,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5192162_2919.92_2924.92",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.505897127047146,
+        "end": 3.984629787096774,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5218776_6632.13_6637.13",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.3378216903225804,
+        "end": 4.186817085856079,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5320903_543.54_548.54",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 2.813235068486352,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5259904_470.97_475.97",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.954808404466501,
+        "end": 3.3919775821339946,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5303625_9952.20_9957.20",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.996213745905707,
+        "end": 3.7999951940446657,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5303933_5442.44_5447.44",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.4934703091811414,
+        "end": 3.6888832550868482,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5303933_5506.26_5511.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.3916314977667494,
+        "end": 3.6877241141439203,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5303933_5556.56_5561.56",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.9188675846153844,
+        "end": 3.7327650193548383,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5353605_6473.22_6478.22",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 3.894216793548387,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5361902_15629.84_15634.84",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.7100715245657563,
+        "end": 4.778972516129032,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5364391_14435.22_14440.22",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.263463627791563,
+        "end": 3.0463879895781636,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5364392_305.77_310.77",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.018726747890819,
+        "end": 3.681100451612903,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5364398_14375.87_14380.87",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.227199075434243,
+        "end": 1.6593930555831258,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5376340_11900.26_11905.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.0844740491315137,
+        "end": 4.378572116129032,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5384736_12569.06_12574.06",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.4143175419354839,
+        "end": 2.247408696774193,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5393789_218.47_223.47",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.0074590709677418,
+        "end": 1.782427587096774,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5405973_12398.14_12403.14",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.4843553225806451,
+        "end": 2.574120851116625,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5411834_16488.32_16493.32",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.5101876064516129,
+        "end": 0.8213341538461538,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5414440_12757.75_12762.75",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.3497368322580647,
+        "end": 2.912590006451613,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5414441_12769.83_12774.83",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.5231037483870971,
+        "end": 2.0149181419354836,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5477319_1231.13_1236.13",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.2722399806451612,
+        "end": 2.7503102744416874,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5785673_2406.94_2411.94",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.0951842225959334,
+        "end": 2.741935483870968,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5421219_5441.19_5446.19",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.0655817096774192,
+        "end": 3.0499234871732153,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5422391_13782.77_13787.77",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.2419481090047393,
+        "end": 5.005005,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5785700_3850.06_3855.06",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.6387096774193548,
+        "end": 1.967741935483871,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5785701_1324.86_1329.86",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.3935483870967742,
+        "end": 2.554838709677419,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5422391_13786.78_13791.78",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 3.3194484774193547,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5798008_46059.28_46064.28",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.805645889861751,
+        "end": 2.4526830953917047,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5803711_1011.02_1016.02",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.5548387096774193,
+        "end": 2.5290322580645164,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5827184_17409.95_17414.95",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.742857142857143,
+        "end": 5,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5827184_25225.76_25230.76",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.4190476190476191,
+        "end": 2.051612903225806,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5827185_25386.52_25391.52",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.4387096774193546,
+        "end": 2.3419354838709676,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5855469_2658.55_2663.55",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.004761904761904762,
+        "end": 2.2248847926267277,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6208700_11927.92_11932.92",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.5149542778801843,
+        "end": 1.7447555064516127,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5880224_7997.74_8002.74",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.8330911548387097,
+        "end": 2.7300726198156684,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5973473_1509.68_1514.68",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.0198385769585254,
+        "end": 3.3775711161290323,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5973473_3513.44_3518.44",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.8996738645161293,
+        "end": 4.50465826359447,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5973478_11117.64_11122.64",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9687890635944698,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5974457_5540.24_5545.24",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.1587655211981565,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5974457_6413.60_6418.60",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.745295215668203,
+        "end": 3.474442180645161,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5974503_4967.69_4972.69",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.2165022142857143,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5974503_7932.17_7937.17",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.745602742857143,
+        "end": 3.997545929032258,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5974600_3631.85_3636.85",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.176984970506912,
+        "end": 2.4317712465437786,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5974629_3259.26_3264.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.5693112451612903,
+        "end": 2.800496346082949,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5974648_11529.01_11534.01",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.157918284792627,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5974650_9878.46_9883.46",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.7042403359447,
+        "end": 4.1177890599078335,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "5974684_8201.18_8206.18",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.3128335695852535,
+        "end": 3.3423592529953914,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5981150_15487.67_15492.67",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.3383613995391705,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5982608_2799.18_2804.18",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 2.373425499231951,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "5982608_2952.86_2957.86",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.1858678955453144,
+        "end": 5,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6000382_5407.45_5412.45",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.8198674857142857,
+        "end": 2.176062388940092,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6007720_5056.05_5061.05",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.9880848580645161,
+        "end": 1.775969516129032,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6068969_11794.09_11799.09",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.1201677857142858,
+        "end": 2.953491122580645,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6075171_7158.12_7163.12",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.67095205437788,
+        "end": 4.4577603672811055,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6075177_5404.24_5409.24",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.3764947709677413,
+        "end": 4.488359322580645,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6079188_12560.80_12565.80",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.9571783755760369,
+        "end": 3.77151344516129,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6084932_897.50_902.50",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.462677729032258,
+        "end": 2.6391983354838713,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6086213_12038.78_12043.78",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.3601927566820273,
+        "end": 2.315679732718894,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6087867_5463.96_5468.96",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.10156239078341,
+        "end": 2.341358252995392,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6111238_541.82_546.82",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 0.9376344086021506,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6112156_6029.95_6034.95",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.2564807488479266,
+        "end": 4.049210496774194,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6113362_2101.70_2106.70",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.9047619047619047,
+        "end": 5,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6121179_7354.35_7359.35",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.877070616129032,
+        "end": 4.268784909677419,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6131733_6490.75_6495.75",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.9380952380952381,
+        "end": 3.0838709677419356,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6137441_4278.77_4283.77",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.558701557142857,
+        "end": 3.107869771428571,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6142823_11746.21_11751.21",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.9284276566820275,
+        "end": 5.005005,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6149420_2035.29_2040.29",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.5195671857142856,
+        "end": 2.8600028571428573,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6151444_49.90_54.90",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 4.474961597542242,
+        "end": 5,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6154355_290.91_295.91",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.6432362806748464,
+        "end": 3.6872250536809807,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 4.720978642638036,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6154384_492.50_497.50",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.728532654639175,
+        "end": 3.2351939536082472,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 0.7625212116564417,
+        "end": 1.5608655674846625,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6161950_274.36_279.36",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.4457447113402058,
+        "end": 4.0473083250901265,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 1.8346567407975458,
+        "end": 2.415503435582822,
+        "intensity": "Chuckle",
+        "source": "️ Visual",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6166188_13909.10_13914.10",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.4268916155419223,
+        "end": 0.9355828220858896,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 1.5030674846625767,
+        "end": 2.668711656441718,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 4.220347648261758,
+        "end": 5,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6168152_770.62_775.62",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.943298969072165,
+        "end": 3.484536082474227,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6175226_3985.24_3990.24",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.1815939639175257,
+        "end": 2.4487134933580337,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6179383_78.69_83.69",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.1649484536082475,
+        "end": 2.036372628828575,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6180689_1168.23_1173.23",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 0.19683026584867075,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 1.0915132924335378,
+        "end": 2.042433537832311,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 0.6186094069529653,
+        "end": 0.8895705521472392,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 3.980061349693252,
+        "end": 4.504089979550103,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 2.2009202453987733,
+        "end": 3.6017382413087935,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6183705_12338.83_12343.83",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 0.5150680821205821,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 2.632597029598583,
+        "end": 3.3947240311953784,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6191994_2252.00_2257.00",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 0.8356881019829926,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 1.041429976993865,
+        "end": 1.299868374233129,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 2.581825176380368,
+        "end": 2.883763105828221,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6192024_11018.26_11023.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.1379282133820174,
+        "end": 2.1446823395662733,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 2.4462089877300612,
+        "end": 2.8121168174846627,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 2.1493886503067485,
+        "end": 2.4410913957055214,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6201246_2723.90_2728.90",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.299079754601227,
+        "end": 1.6964965201161524,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6201246_3130.06_3135.06",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9672340996594893,
+        "end": 4.371165644171779,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6206097_4988.48_4993.48",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.8467380556070885,
+        "end": 2.765641174892704,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 4.268071748466257,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6208700_11926.42_11931.42",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.096378530665928,
+        "end": 3.333937561532604,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 1.205192921779141,
+        "end": 2.0879775460122696,
+        "intensity": "Chuckle",
+        "source": "️ Visual",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6216155_133.17_138.17",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9010426716738198,
+        "end": 2.631386748927038,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 4.328362693133047,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6218022_5145.26_5150.26",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.2070815450643777,
+        "end": 3.111587982832618,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6219134_1564.23_1569.23",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.5573513412017168,
+        "end": 3.010281770337215,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6219134_937.31_942.31",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.714233546137339,
+        "end": 2.123800690184049,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 2.187770590490797,
+        "end": 2.824910797546012,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 4.0838384355828214,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6220463_743.96_748.96",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.5412408100858368,
+        "end": 2.6616953352069777,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6223122_11213.96_11218.96",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.4875390396995707,
+        "end": 2.8217820450436104,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 2.817234409509202,
+        "end": 4.004515759202453,
+        "intensity": "Chuckle",
+        "source": "️ Visual",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6240617_746.06_751.06",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.41350363197424894,
+        "end": 1.2942126663090128,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 3.4339042484662574,
+        "end": 4.132455559815951,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 4.544421717791411,
+        "end": 5.005005,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6242888_12468.30_12473.30",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.2489571083690985,
+        "end": 5.005005,
+        "intensity": "Laughter",
+        "source": "️ Both",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6248489_29304.22_29309.22",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.5611587982832618,
+        "end": 4.006451612903226,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 0.708077709611452,
+        "end": 1.5362985685071575,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6250020_3623.38_3628.38",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.7703862660944205,
+        "end": 3.9862599506744956,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6250020_3635.21_3640.21",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.8959227467811159,
+        "end": 1.7703862660944205,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6250028_7692.38_7697.38",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.194206008583691,
+        "end": 3.506718625205157,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6250030_29187.27_29192.27",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.8113612004287245,
+        "end": 3.217020430171161,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6250612_8902.23_8907.23",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.092124276527331,
+        "end": 3.5777233941076676,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6250628_6149.68_6154.68",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 0.8314852893890676,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 2.3469425122058274,
+        "end": 3.342034421221865,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 4.0812796395705515,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6250629_4219.47_4224.47",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0.8958583440514469,
+        "end": 2.567010530422155,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 0.5578175306748466,
+        "end": 0.8955786042944784,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  },
+  {
+    "name": "6256874_10823.50_10828.50",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.105331135483871,
+        "end": 3.1148667566020114,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6260360_3225.77_3230.77",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9311916398713824,
+        "end": 3.5904175065449637,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6264053_4451.28_4456.28",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 0,
+        "end": 3.7946944861963186,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 3.881693550613497,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6264275_3853.31_3858.31",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.9646569646569647,
+        "end": 3.7203943397491783,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6264276_4002.88_4007.88",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.2920997920997923,
+        "end": 4.007705720608946,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 4.008179959100204,
+        "end": 5,
+        "intensity": "Chuckle",
+        "source": "️ Visual",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6264287_16807.03_16812.03",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.790072651926996,
+        "end": 3.3787807658775404,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6264290_25955.34_25960.34",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.8503118503118503,
+        "end": 3.2574408155053316,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6264295_15076.06_15081.06",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.632258064516129,
+        "end": 2.71806719871236,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 2.7019427402862983,
+        "end": 3.8266871165644174,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6266641_9602.45_9607.45",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 1.941308216611897,
+        "end": 3.02791557937764,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6267826_4126.33_4131.33",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 3.0998740645161287,
+        "end": 3.9523394322580643,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 0.8802258282208589,
+        "end": 1.417572990797546,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6271672_3321.38_3326.38",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.892705592515592,
+        "end": 3.797976767151767,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6272836_115.84_120.84",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.2111508575883576,
+        "end": 3.2308816060291057,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      },
+      {
+        "start": 3.2266417714723925,
+        "end": 3.7384009739263804,
+        "intensity": "Chuckle",
+        "source": "️ Both",
+        "speaker": "️ Speaker"
+      }
+    ]
+  },
+  {
+    "name": "6281346_5104.06_5109.06",
+    "split": "test",
+    "laughter_events": [
+      {
+        "start": 2.4608808367983364,
+        "end": 4.540863036758098,
+        "intensity": "Laughter",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      },
+      {
+        "start": 4.546980513803681,
+        "end": 5.005005,
+        "intensity": "Chuckle",
+        "source": "Acoustic",
+        "speaker": "Audience"
+      }
+    ]
+  }
+]
